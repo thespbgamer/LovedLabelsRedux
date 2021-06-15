@@ -12,6 +12,7 @@ using StardewValley.Characters;
 using StardewValley.Menus;
 using StardewValley.Network;
 
+
 namespace LovedLabelsRedux
 {
     public class ModEntry : Mod
