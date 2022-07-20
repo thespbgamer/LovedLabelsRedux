@@ -24,7 +24,7 @@ namespace LovedLabelsRedux
         public override void Entry(IModHelper helper)
         {
             configsForTheMod = helper.ReadConfig<ModConfig>();
-            _hearts = helper.Content.Load<Texture2D>("assets/hearts.png");
+            _hearts = helper.ModContent.Load<Texture2D>("assets/hearts.png");
 
             helper.Events.GameLoop.GameLaunched += onLaunched;
             helper.Events.Input.ButtonPressed += this.OnButtonPressed;

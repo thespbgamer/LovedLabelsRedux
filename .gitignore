@@ -1,5 +1,6 @@
 .vs
-ZoomLevel/obj/
-ZoomLevel/obj/Debug/
-ZoomLevel/bin/
-ZoomLevel/bin/Debug/
+LovedLabelsRedux/obj/
+LovedLabelsRedux/obj/Debug/
+LovedLabelsRedux/bin/
+LovedLabelsRedux/bin/Debug/
+*.zip
