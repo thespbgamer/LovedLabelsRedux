@@ -44,6 +44,7 @@ Here's what you can change:
   Setting Name                    | Default Value   | Description
   :------------------------------ | :-------------- | :------------------
   `IsUIEnabled`                   | `true`          | If true shows the UI, if false hides it.
+  `IsPettingEnabled`              | `false`         | If true then auto pets farm animals, if false does not auto pet.
 
 
 ## Compatibility
