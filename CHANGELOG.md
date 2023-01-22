@@ -1,4 +1,4 @@
-## [Unreleased] - ????-??-??
+## [1.2.0] - 2023-01-22
 
 ### Added
 
@@ -33,7 +33,8 @@
 
 - Initial release
 
-[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.2.0
 [1.1.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.1.0
 [1.0.2]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.0.2
 [1.0.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.0.0
