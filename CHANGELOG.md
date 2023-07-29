@@ -1,3 +1,5 @@
+# Full Changelog
+
 ## [1.2.0] - 2023-01-22
 
 ### Added
@@ -19,7 +21,6 @@
 - Major code optimization
 - Updated dependencies
 
-
 ## [1.0.2] - 2021-06-15
 
 ### Fixed
@@ -38,4 +39,3 @@
 [1.1.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.1.0
 [1.0.2]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.0.2
 [1.0.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.0.0
-
