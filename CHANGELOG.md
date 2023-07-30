@@ -1,5 +1,12 @@
 # Full Changelog
 
+## [1.3.0] - 2023-07-30
+
+### Improvements
+
+- Updated dependencies and removed deprecated files
+- Embedded `.pdb` data into the DLL, which fixes error line numbers in Linux/macOS logs (thanks to [Pathoschild](https://github.com/Pathoschild))
+
 ## [1.2.0] - 2023-01-22
 
 ### Added
@@ -35,6 +42,7 @@
 - Initial release
 
 [Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v1.2.0...HEAD
+[1.3.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.3.0
 [1.2.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.2.0
 [1.1.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.1.0
 [1.0.2]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.0.2
