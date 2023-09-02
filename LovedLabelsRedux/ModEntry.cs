@@ -135,7 +135,7 @@ namespace LovedLabelsRedux
         private void DrawSimpleTooltip(SpriteBatch b, string hoverText, SpriteFont font, bool? hoverStatus)
         {
             //log
-            this.Monitor.Log("[" + hoverStatus + "]", LogLevel.Debug);
+            //this.Monitor.Log("[" + hoverStatus + "]", LogLevel.Debug);
 
             var textSize = font.MeasureString(hoverText);
             var width = (int)textSize.X + _hearts.Width + Game1.tileSize / 2;

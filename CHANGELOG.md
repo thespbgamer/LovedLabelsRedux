@@ -1,5 +1,11 @@
 # Full Changelog
 
+## [1.4.1] - 2023-09-02
+
+### Fixed
+
+- Debug messages no longer in the console
+
 ## [1.4.0] - 2023-08-31
 
 ### Improvements
@@ -51,7 +57,8 @@
 
 - Initial release
 
-[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v1.4.0...HEAD
+[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v1.4.1...HEAD
+[1.4.1]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.4.1
 [1.4.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.4.0
 [1.3.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.3.0
 [1.2.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.2.0
