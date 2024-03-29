@@ -1,5 +1,12 @@
 # Full Changelog
 
+## [2.0.0] - 2024-03-29
+
+### Changes
+
+- Added Portuguese translations (thanks to [Maatsuki](https://www.nexusmods.com/stardewvalley/users/59340891))
+
+
 ## [1.4.1] - 2023-09-02
 
 ### Fixed
@@ -57,7 +64,8 @@
 
 - Initial release
 
-[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v1.4.1...HEAD
+[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/2.0.0
 [1.4.1]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.4.1
 [1.4.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.4.0
 [1.3.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.3.0
