@@ -1,5 +1,12 @@
 # Full Changelog
 
+## [2.1.0] - 2024-04-06
+
+### Changes
+
+- Added Polish translations (thanks to [DzikiSzogun](https://github.com/DzikiSzogun))
+
+
 ## [2.0.0] - 2024-03-29
 
 ### Changes
@@ -64,7 +71,8 @@
 
 - Initial release
 
-[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/2.1.0
 [2.0.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/2.0.0
 [1.4.1]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.4.1
 [1.4.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/1.4.0
