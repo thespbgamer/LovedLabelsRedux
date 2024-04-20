@@ -1,5 +1,11 @@
 # Full Changelog
 
+## [2.2.1] - 2024-04-20
+
+### Fixes
+
+- AutoPet not working if you sleep outside your farm and on other exceptions
+
 ## [2.2.0] - 2024-04-09
 
 ### Changes
@@ -77,7 +83,8 @@
 
 - Initial release
 
-[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v2.2.0...HEAD
+[Unreleased]: https://github.com/thespbgamer/LovedLabelsRedux/compare/v2.2.1...HEAD
+[2.2.1]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/2.2.1
 [2.2.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/2.2.0
 [2.1.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/2.1.0
 [2.0.0]: https://github.com/thespbgamer/LovedLabelsRedux/releases/tag/2.0.0
